@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon MATLAB error related to implicit expansion. The 'bug.m' file contains code that incorrectly handles array operations leading to an implicit expansion error. The 'bugSolution.m' file provides the corrected code with explanations to avoid this type of error.
